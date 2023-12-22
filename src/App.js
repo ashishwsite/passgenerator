@@ -42,7 +42,7 @@ function App() {
     <>
       <div className="m-4 rounded-xl bg-cyan-600">
         <h1 className="text-4xl text-center p-2 text-white">
-          Passwrd Generator
+          Password Generator
         </h1>
         <div className="continer w-full p-1 text-center">
           <input
